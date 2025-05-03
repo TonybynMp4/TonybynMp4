@@ -1,9 +1,9 @@
 # About Me
 
 Hello there!
-I'm Antony, a student developer in Web Development and, sometimes, a FiveM developper (when i find the motivation at least).
+I'm Antony, a student developer in Web Development and, used to be, a FiveM developper (When it had a future).
 
-You can find my FiveM stuff in my little [workshop](https://github.com/ybox-project).
+If you care, you can find my old FiveM stuff in my little [workshop](https://github.com/ybox-project).
 
 ## 🤓☝️ Stats
 
