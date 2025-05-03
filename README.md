@@ -3,7 +3,7 @@
 Hello there!
 I'm Antony, a student developer in Web Development and, used to be, a FiveM developper (When it had a future).
 
-If you care, you can find my old FiveM stuff in my little [workshop](https://github.com/ybox-project).
+If you care, you can find my old FiveM stuff in my little [workshop](https://github.com/Ynot-Workshop).
 
 ## 🤓☝️ Stats
 
